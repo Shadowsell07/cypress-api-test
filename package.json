@@ -1,0 +1,14 @@
+{
+  "name": "cypress-api-test",
+  "version": "1.0.0",
+  "description": "API Testing with Cypress",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.24",
+    "cypress": "^14.4.0",
+    "typescript": "^5.8.3"
+  }
+}
